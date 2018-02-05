@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Created by derros on 2/4/18.
+ * Runs the Krushal MST algorithm using a Wikipedia graph.
  */
 public class KruskalRunner {
     public static void main(String[] args) {

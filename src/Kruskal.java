@@ -2,6 +2,7 @@ import java.util.*;
 
 /**
  * Created by derros on 2/3/18.
+ * The Kruskal MST algorithm based on Union-Find-Dijoint sets.
  */
 public class Kruskal {
 

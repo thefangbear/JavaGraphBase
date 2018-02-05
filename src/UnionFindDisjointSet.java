@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Created by derros on 2/4/18.
+ * Union-Find-Disjoint sets.
  */
 public class UnionFindDisjointSet {
 
